@@ -12,7 +12,7 @@
 	<artifactId>my-spring-boot-web</artifactId>
 	<version>1.0</version>
 	<name>my-spring-boot-web</name>
-	<description>Kevin Casey @apos;s SimpliLearnPhase-5 Assessment</description>
+	<description>SimpliLearnPhase-5 Assessment</description>
 
 	<properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
